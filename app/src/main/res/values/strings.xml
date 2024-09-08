@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scogo Networks Machine Test</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection, please connect to the internet.</string>
+    <string name="ok">OK</string>
+    <string name="retry">Retry\n</string>
+    <string name="search">Search</string>
+    <string name="about_us">About %s</string>
+    <string name="back">Back</string>
+    <string name="error">Error</string>
+</resources>
